@@ -26,6 +26,10 @@ Redlamp and RAWmakase
 # Browsers
 cask "google-chrome" # Web browser
 cask "orion" # Webkit-based browser with unique features
+# Safari extensions (Mac App Store)
+mas "1Blocker", id: 1365531024
+mas "SocialFocus", id: 1661093205
+mas "Noir", id: 1592917505
 # System utilities
 cask "karabiner-elements" # Keyboard customization
 cask "logitech-options-plus" # Logitech device manager
