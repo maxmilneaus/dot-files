@@ -32,7 +32,7 @@ mas "SocialFocus", id: 1661093205
 mas "Noir", id: 1592917505
 # System utilities
 cask "karabiner-elements" # Keyboard customization
-cask "logitech-options-plus" # Logitech device manager
+cask "openlogi" # Open-source Logitech device manager; local settings, no account
 cask "lulu" # Network firewall
 Proton VPN
 cask "knockknock" # Security tool to detect persistent software
