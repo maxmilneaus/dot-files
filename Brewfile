@@ -18,11 +18,11 @@ cask "signal" # Secure messaging app
 cask "zoom" # Video conferencing
 cask "claude" # Claude AI assistant
 # Media
-iina for video watching 
+cask "iina" # Video player
 cask "macwhisper" # Audio transcription tool
 # Development and design
 cask "hyper" # Terminal (iterm is probably better, just used to this one)
-Redlamp and RAWmakase
+# Redlamp and RAWmakase: see Manual-installs.md
 # Browsers
 cask "google-chrome" # Web browser
 cask "orion" # Webkit-based browser with unique features
@@ -34,5 +34,7 @@ mas "Noir", id: 1592917505
 cask "karabiner-elements" # Keyboard customization
 cask "openlogi" # Open-source Logitech device manager; local settings, no account
 cask "lulu" # Network firewall
-Proton VPN
+cask "protonvpn" # VPN client
 cask "knockknock" # Security tool to detect persistent software
+
+# Additional apps and manual setup: see Manual-installs.md
